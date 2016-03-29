@@ -22,7 +22,8 @@ Time spent: `8 hours`
 - [ ] Client supports multiple connected clients
 - [x] Client does not need to make additional `GET` request on `"write"` update
 - [ ] Client and User will be redirected from HTTP to HTTPS
--
+
+
 
 ### Walkthrough
 
